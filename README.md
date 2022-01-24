@@ -20,11 +20,11 @@ MySQL Community Edition: [https://dev.mysql.com/downloads/](https://dev.mysql.co
 
 Bajar **DBeaver:** [https://dbeaver.com/download/](https://dbeaver.com/download/)
 
-** Ejercicios paso a paso tutorial manos a la obra (en inglés): **  
+**Ejercicios paso a paso tutorial manos a la obra (en inglés):**  
 
 [https://sqlbolt.com/lesson/select_queries_introduction](https://sqlbolt.com/lesson/select_queries_introduction)
 
-** Ejercicio propuesto por ArgentinaPrograma en SQL Fiddle: ** 
+**Ejercicio propuesto por ArgentinaPrograma en SQL Fiddle:** 
 
 Enunciado:  [https://argentinaprograma.inti.gob.ar/mod/page/view.php?id=162](https://argentinaprograma.inti.gob.ar/mod/page/view.php?id=162)
 
@@ -32,7 +32,7 @@ Para practicarlo online [http://sqlfiddle.com/#!9/3357a7](http://sqlfiddle.com/#
 
 Resueltos online: [http://sqlfiddle.com/#!9/3357a7/1](http://sqlfiddle.com/#!9/3357a7/1)
 
-** Glosario ** 
+**Glosario** 
 
 Bases de Datos (DB - Database) 
 
