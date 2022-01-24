@@ -18,7 +18,7 @@ MySQL Community Edition: [https://dev.mysql.com/downloads/](https://dev.mysql.co
 
 [MySQL Installer for Windows](https://dev.mysql.com/downloads/windows/) (MySQL Workbench)
 
-Bajar **DBeaver:** [https://dbeaver.com/download/](https://dbeaver.com/download/)
+Bajar **DBeaver:** [https://dbeaver.com/download/](https://dbeaver.com/download/) _Lite edition_
 
 **Ejercicios paso a paso tutorial manos a la obra (en inglés):**  
 
