@@ -2,7 +2,7 @@
 
 **Modulo 4 - Masterclass número 6:** 
 
-Matrerial lectura oficial:  
+Material lectura oficial:  
 
 [https://argentinaprograma.inti.gob.ar/mod/page/view.php?id=458](https://argentinaprograma.inti.gob.ar/mod/page/view.php?id=458)
 
