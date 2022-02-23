@@ -51,4 +51,8 @@ PRIMARY KEY (PK)
 
 FOREIGN_KEY (FK) 
 
+Index 
+
+SQL Constraints (autoincrement, notnull, primary_key, foreign_key, unique, etc) 
+
 uno a uno, uno a muchos, etc
